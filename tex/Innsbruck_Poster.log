@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.7)  20 SEP 2022 22:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.7)  6 FEB 2023 08:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -648,7 +648,7 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \CommentStream=\write4
 
 Excluding comment 'comment')
-LaTeX Font Info:    Trying to load font information for T1+aer on input line 14
+LaTeX Font Info:    Trying to load font information for T1+aer on input line 13
 .
  (c:/texlive/2022/texmf-dist/tex/latex/ae/t1aer.fd
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
@@ -664,20 +664,20 @@ LaTeX Warning: Unused global option(s):
 (./Innsbruck_Poster.aux)
 \openout1 = `Innsbruck_Poster.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -705,16 +705,16 @@ e
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a1paper
+* paper: a0paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(0.0pt, 1690.09369pt, 0.0pt)
-* v-part:(T,H,B)=(0.0pt, 2392.87677pt, 0.0pt)
-* \paperwidth=1690.09369pt
-* \paperheight=2392.87677pt
-* \textwidth=1690.09369pt
-* \textheight=2392.87677pt
+* h-part:(L,W,R)=(0.0pt, 2392.87677pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 3383.03267pt, 0.0pt)
+* \paperwidth=2392.87677pt
+* \paperheight=3383.03267pt
+* \textwidth=2392.87677pt
+* \textheight=3383.03267pt
 * \oddsidemargin=-72.26999pt
 * \evensidemargin=-72.26999pt
 * \topmargin=-109.26999pt
@@ -738,76 +738,119 @@ e
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no 1 in font nullfont!
-LaTeX Font Info:    Trying to load font information for TS1+aer on input line 3
-1.
-LaTeX Font Info:    No file TS1aer.fd. on input line 31.
+
+LaTeX Font Warning: Font shape `T1/aer/b/sc' undefined
+(Font)              using `T1/aer/b/n' instead on input line 14.
+
+LaTeX Font Info:    Font shape `T1/aer/b/it' in size <20.74> not available
+(Font)              Font shape `T1/aer/bx/it' tried instead on input line 29.
+<steamengines.png, id=42, 1258.7025pt x 915.42pt>
+File: steamengines.png Graphic file (type png)
+<use steamengines.png>
+Package pdftex.def Info: steamengines.png  used on input line 36.
+(pdftex.def)             Requested size: 507.70435pt x 369.23451pt.
+<1845.jpg, id=43, 597.45609pt x 844.98083pt>
+File: 1845.jpg Graphic file (type jpg)
+<use 1845.jpg>
+Package pdftex.def Info: 1845.jpg  used on input line 38.
+(pdftex.def)             Requested size: 597.45462pt x 844.97878pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./fertility_p5_p95.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<fertility_p5_p95.pdf, id=44, 397.485pt x 289.08pt>
+File: fertility_p5_p95.pdf Graphic file (type pdf)
+<use fertility_p5_p95.pdf>
+Package pdftex.def Info: fertility_p5_p95.pdf  used on input line 42.
+(pdftex.def)             Requested size: 507.70435pt x 369.25362pt.
+LaTeX Font Info:    Trying to load font information for TS1+aer on input line 5
+3.
+LaTeX Font Info:    No file TS1aer.fd. on input line 53.
 
 LaTeX Font Warning: Font shape `TS1/aer/m/n' undefined
 (Font)              using `TS1/cmr/m/n' instead
-(Font)              for symbol `textbullet' on input line 31.
+(Font)              for symbol `textbullet' on input line 53.
 
 LaTeX Font Info:    Font shape `T1/aer/b/it' in size <29.86> not available
-(Font)              Font shape `T1/aer/bx/it' tried instead on input line 31.
-LaTeX Font Info:    Font shape `T1/aer/b/it' in size <20.74> not available
-(Font)              Font shape `T1/aer/bx/it' tried instead on input line 38.
-<FinalBorders.jpg, id=42, 597.74516pt x 845.41446pt>
-File: FinalBorders.jpg Graphic file (type jpg)
-<use FinalBorders.jpg>
-Package pdftex.def Info: FinalBorders.jpg  used on input line 48.
-(pdftex.def)             Requested size: 563.30338pt x 796.67715pt.
-<Steam.png, id=43, 1189.5642pt x 549.252pt>
+(Font)              Font shape `T1/aer/bx/it' tried instead on input line 75.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75     	\end{center}}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75     	\end{center}}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<Steam.png, id=45, 1189.5642pt x 549.252pt>
 File: Steam.png Graphic file (type png)
 <use Steam.png>
-Package pdftex.def Info: Steam.png  used on input line 52.
-(pdftex.def)             Requested size: 813.41263pt x 375.57628pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
-
- []
-
-<ozturk.png, id=44, 461.725pt x 470.75874pt>
+Package pdftex.def Info: Steam.png  used on input line 75.
+(pdftex.def)             Requested size: 761.69508pt x 351.70445pt.
+<demog.jpg, id=46, 845.559pt x 474.0912pt>
+File: demog.jpg Graphic file (type jpg)
+<use demog.jpg>
+Package pdftex.def Info: demog.jpg  used on input line 82.
+(pdftex.def)             Requested size: 652.89098pt x 366.08582pt.
+<ozturk.png, id=47, 461.725pt x 470.75874pt>
 File: ozturk.png Graphic file (type png)
 <use ozturk.png>
-Package pdftex.def Info: ozturk.png  used on input line 57.
+Package pdftex.def Info: ozturk.png  used on input line 99.
 (pdftex.def)             Requested size: 83.71985pt x 85.35826pt.
-<braun.png, id=46, 459.7175pt x 454.69875pt>
+<braun.png, id=49, 459.7175pt x 454.69875pt>
 File: braun.png Graphic file (type png)
 <use braun.png>
-Package pdftex.def Info: braun.png  used on input line 57.
+Package pdftex.def Info: braun.png  used on input line 99.
 (pdftex.def)             Requested size: 86.29501pt x 85.35826pt.
-<vwl7.png, id=47, 456.70625pt x 457.71pt>
+<vwl7.png, id=50, 456.70625pt x 457.71pt>
 File: vwl7.png Graphic file (type png)
 <use vwl7.png>
-Package pdftex.def Info: vwl7.png  used on input line 57.
+Package pdftex.def Info: vwl7.png  used on input line 99.
 (pdftex.def)             Requested size: 85.1653pt x 85.35826pt.
 [1
 
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./FinalBorders.
-jpg> <./Steam.png> <./ozturk.png> <./braun.png> <./vwl7.png>]
-(./Innsbruck_Poster.aux)
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./steamengines.
+png (PNG copy)> <./1845.jpg> <./fertility_p5_p95.pdf> <./Steam.png> <./demog.jp
+g> <./ozturk.png> <./braun.png> <./vwl7.png>] (./Innsbruck_Poster.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 18008 strings out of 475075
- 399393 string characters out of 5783002
- 786542 words of memory out of 5000000
- 38994 multiletter control sequences out of 15000+600000
- 524739 words of font info for 127 fonts, out of 8000000 for 9000
+ 18034 strings out of 475075
+ 399828 string characters out of 5783002
+ 811656 words of memory out of 5000000
+ 39015 multiletter control sequences out of 15000+600000
+ 527284 words of font info for 130 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,8n,118p,695b,915s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,8n,118p,716b,921s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/tex
 live/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmb10.pfb><c:/texlive/2022/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2022/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmti12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-s
-uper/sfrm2986.pfb>
-Output written on Innsbruck_Poster.pdf (1 page, 29768368 bytes).
+ist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/pub
+lic/cm-super/sfrm2986.pfb>
+Output written on Innsbruck_Poster.pdf (1 page, 17011252 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 96 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 170 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 185 words of extra memory for PDF output out of 10000 (max. 10000000)
 
